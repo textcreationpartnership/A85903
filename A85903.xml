@@ -1,0 +1,1186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A general note of the prises for binding all sortes of bookes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85903</idno>
+            <idno type="STC">Wing G504</idno>
+            <idno type="STC">Thomason 669.f.10[60]</idno>
+            <idno type="STC">ESTC R210482</idno>
+            <idno type="EEBO-CITATION">99869278</idno>
+            <idno type="PROQUEST">99869278</idno>
+            <idno type="VID">162598</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85903)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162598)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f10[60])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A general note of the prises for binding all sortes of bookes.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 18th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bookbinding --  England --  Prices --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_prices">
+            <pb facs="tcp:162598:1" rendition="simple:additions"/>
+            <head>A Generall note of the priſes for binding all ſortes of bookes</head>
+            <div type="part">
+               <head>Bibles in follio <hi>London</hi>
+or the like.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>li</cell>
+                        <cell>s</cell>
+                        <cell>d</cell>
+                     </row>
+                     <row>
+                        <cell>GIlt over, or double lac'd—</cell>
+                        <cell>0</cell>
+                        <cell>11</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Corners, or ſingle lac'd—</cell>
+                        <cell>0</cell>
+                        <cell>8</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Edges and Fillets—</cell>
+                        <cell>0</cell>
+                        <cell>6</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>Fillets—</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>Ovills—</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>6</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Bibles in quarto great
+roman or the like</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Small tooles ordinary—</cell>
+                        <cell>0</cell>
+                        <cell>8</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Gilt over, or double lac'd—</cell>
+                        <cell>0</cell>
+                        <cell>5</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>Chequer—</cell>
+                        <cell>0</cell>
+                        <cell>5</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>Corners, or ſingle lac'd—</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>Gilt edges—</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Fillets—</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Ovills—</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>4</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Bibles in quarto ſmale
+or the like</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Smale tooles ordin.—</cell>
+                        <cell>0</cell>
+                        <cell>8</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Gilt over, or double lac'd—</cell>
+                        <cell>0</cell>
+                        <cell>5</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>Corners or ſingle lac'd—</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>Gilt edges—</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>Fillets—</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>Ovills—</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Bibles in 8 Minnion or the like.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Smale tooles ordina.—</cell>
+                        <cell>0</cell>
+                        <cell>5</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Gilt over, or double lac'd—</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Corners or ſingle lac'd—</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>Chequer—</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>Gilt edges</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Fillets—</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>3</cell>
+                     </row>
+                     <row>
+                        <cell>Ovills—</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>10</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Bibles in Octavo or the like</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Smale tooles ordinary—</cell>
+                        <cell>0</cell>
+                        <cell>4</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>Chequer—</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>Gilt over double lac'd—</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>Corners or ſingle lac'd—</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>Edges gilt—</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>Fillets—</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>Ovills—</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>9</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Bibles in 12 or all other ſmale Bibles.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Smale tooles ordinary—</cell>
+                        <cell>0</cell>
+                        <cell>4</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Chequer—</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>Gilt over or double lac'd—</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>Corners or ſingle lac'd—</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Gilt edges—</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>Fillets—</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>Ovills—</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>8</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Teſtament and Pſalmes in 24
+or the like</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Gilt over—</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Gilt Edges—</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>Fillets—</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>6</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Pſalmes in 8 Middleborough
+or the like.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Gilt over, or lac'd—</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>Gilt Edges—</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>Fillets—</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>Ovills—</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>8</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Pſalmes in 24 or the like</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Gilt over, or lac'd—</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>Gilt Edges—</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>7</cell>
+                     </row>
+                     <row>
+                        <cell>Fillets—</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>5</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Pſalmes in 32 or the like</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Gilt over—</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>GiltEdges—</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>7</cell>
+                     </row>
+                     <row>
+                        <cell>Fillets—</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>5</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Bookes in Folio lattine.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Atlas major 3 voll. or the like fillets</cell>
+                        <cell>1</cell>
+                        <cell>10</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Lyra 6 voll large</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Ariſt. Opera 2 voll</cell>
+                        <cell>Fillets a voll.</cell>
+                        <cell>0</cell>
+                        <cell>5</cell>
+                        <cell>6</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Plutarchi Opera</cell>
+                        <cell>Rolls—</cell>
+                        <cell>0</cell>
+                        <cell>4</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>2 voll. or the like.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Hutteri heb. Biblia</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Buxtorph. heb. Biblia</cell>
+                        <cell>rolles a voll.</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>or the like.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Montanus Biblia Ent.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Eraſmi Epit. 1 vol.</cell>
+                        <cell>Fillets</cell>
+                        <cell>0</cell>
+                        <cell>4</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>Mendz. in Reg. 1. vol.</cell>
+                        <cell>Roſſes</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Grotius in ver. Teſt.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>or the like.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Gerrard. Harm. Mathew Paris.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Scapula Lex.Eſtius in Epiſt.</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>or the like.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Gerrardi Loci Com. 4. vol.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Grot. in vet Teſt. 3 vol.</cell>
+                        <cell>Rolles</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>or the like.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Bookes in quarto Lattine.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Sculteti Medulla.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Mellificium Hiſtoricum.</cell>
+                        <cell>Rolles</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>Voſſii Gram. Hiſpan:</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Biblia. or the like.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>All Latine bookes 4 if large paper</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>If thick at—</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>All latine bookes 4 pot paper rolles</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>If thick at—</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>0</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Bookes in 8 12 &amp; 24.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Buxtorphi Lexicon</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Paſſoris Lexicon.</cell>
+                        <cell>Rolles—</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>Lumbard in Senten.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>or the like.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>All thine latine bookes 8 rolles</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>7</cell>
+                     </row>
+                     <row>
+                        <cell>All latine bookes 12 &amp; 16 rolles</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>All bookes 24 &amp; 32 Fillets—</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>5</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Bookes in follio Engliſh</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Atlas 2 voll. or the like in Fillets</cell>
+                        <cell>1</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Iſaackſons Chron. or the like. Rolles</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Gerrads Herball</cell>
+                        <cell>Fillets—</cell>
+                        <cell>0</cell>
+                        <cell>4</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>Parkinſons Herball</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>and the like.</cell>
+                        <cell>Rolles—</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Booke of Martyrs or the like, fil.</cell>
+                        <cell>0</cell>
+                        <cell>12</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Rolles.—</cell>
+                        <cell>0</cell>
+                        <cell>8</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Newmans Con. Turkiſh</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Hiſt. Rawleighs Hiſtory</cell>
+                        <cell>Rolles</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>Andrews Sermons, or</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>the like.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Annotations. Survey of</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>London. Joſephus Hiſt:</cell>
+                        <cell>Rolles</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Perkins Workes 3 vol.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>or the like.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Sands Ovid. Bakers</cell>
+                        <cell>Rolles</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>Chron: or the like.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Hackwells Apol: Cotgraves</cell>
+                        <cell>Rol.</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>Dictionary. Hierons Works</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Boyſes Workes. or the like.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Canterburies Doome.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Hookers Policie. Pembles</cell>
+                        <cell>Rolles</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>Workes. Field of the</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Church. or the like.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Daltons Juſtice.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Henry the 7. Holy</cell>
+                        <cell>Rolles—</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>State. Holy War</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>or the like.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Bookes in 4 Engliſh</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Riders Dictionary</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Piſcator in N: Teſt.</cell>
+                        <cell>Rolles—</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>or the like.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Weſts Preſidents</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Thomas Dict.</cell>
+                        <cell>Rolles—</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>Diodates NOtes</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>or the like.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Goodwins W: Carylos</cell>
+                        <cell>Rolles</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>Workes. or the like.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Weymes workes 4 vol.</cell>
+                        <cell>Rolles</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Critica Sacra.</cell>
+                        <cell>Rolles</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>or the like.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>All ſmale 4 pot paper, Rolles</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>10</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Bokkes in Octavo Engliſh</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Souls Conflict. Records</cell>
+                        <cell>Rolles</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>7</cell>
+                     </row>
+                     <row>
+                        <cell>Arethmat: or the like.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Bookes in 12 Engliſh.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Scudders daily Walke</cell>
+                        <cell>Rolles</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>Mirour of Martyrs</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Practice of Piety</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>or the like.</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Sheeps Leather</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>All ſmale Follio pot paper</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>All thinne Crown, in quarto at</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>7</cell>
+                     </row>
+                     <row>
+                        <cell>All thick pot paper in quarto at</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>All thinne pot paper in quarto at</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>Hunts Arethmaticke</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>Records Arethmaticke</cell>
+                        <cell>8</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Smetius</cell>
+                        <cell>8</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>Large Teſtaments</cell>
+                        <cell>8</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>and the like.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>ob</cell>
+                     </row>
+                     <row>
+                        <cell>All thinne Crown, one with another</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                     </row>
+                     <row>
+                        <cell>Teſtaments in 8 and 12</cell>
+                        <cell> </cell>
+                        <cell>ob</cell>
+                     </row>
+                     <row>
+                        <cell>Virgill. 8</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                     </row>
+                     <row>
+                        <cell>Quarles Poems</cell>
+                        <cell>8</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>and the like.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>All other bookes 8 &amp; 12 guttard</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                     </row>
+                     <row>
+                        <cell>All ſortes of ſmale bookes, as</cell>
+                        <cell>ob</cell>
+                     </row>
+                     <row>
+                        <cell>Gramers Pſalters &amp; the like</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>Pſalter Teſtament pſalmes in</cell>
+                        <cell>8</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>7</cell>
+                     </row>
+                     <row>
+                        <cell>Teſtament Pſalmes</cell>
+                        <cell>8—</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>Teſtament Pſalmes</cell>
+                        <cell>12—</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>All ſortes of thinne bookes</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>ſheeps Leather fillets. as</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>Grammers, Pſalters, ſmale</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>12. 24 and 32</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Primers gilt the Groſſe—</cell>
+                        <cell>1</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Primers plaine the Groſſe—</cell>
+                        <cell>0</cell>
+                        <cell>10</cell>
+                        <cell>0</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Printed at London 1646.</p>
+               <trailer>FINIS</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
